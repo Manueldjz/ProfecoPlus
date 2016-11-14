@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Profeco Plus</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Strings para el toolbar -->
+    <string name="bar_inicio">INICIO</string>
+    <string name="bar_hemeroteca">HEMEROTECA</string>
+    <string name="bar_favoritos">FAVORITOS</string>
+</resources>

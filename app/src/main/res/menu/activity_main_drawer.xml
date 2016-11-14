@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        android:id="@+id/menu_top">
+        <item android:id="@+id/nav_inicio"
+            android:title="Inicio" />
+        <item android:id="@+id/nav_fav"
+            android:title="Favoritos" />
+        <item android:id="@+id/nav_hemeroteca"
+            android:title="Hemeroteca digital" />
+    </group>
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/menu_bottom">
+        <item android:id="@+id/nav_derechos_consumidor" android:title="Derechos del consumidor"/>
+        <item android:id="@+id/nav_derechos" android:title="Derechos del proveedor / provisor" />
+        <item android:id="@+id/nav_mas" android:title="Más"/>
+    </group>
+
+</menu>
