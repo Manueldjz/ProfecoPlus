@@ -14,7 +14,7 @@ Profeco Plus es un aplicación completamente programada en su lenguaje nativo pa
 
 # Aplicación nativa iOS & Android.
 
-![Alt text](http://i65.tinypic.com/n1uqti.png) ![Alt text](http://i67.tinypic.com/flax7b.png)
+![Alt text](http://i63.tinypic.com/jzx2t.png) ![Alt text](http://i67.tinypic.com/flax7b.png)
 
 Misma identidad diferente diseño de interfaz
 
